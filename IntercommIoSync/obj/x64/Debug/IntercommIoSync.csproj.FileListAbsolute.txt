@@ -1,0 +1,12 @@
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\IntercommIoSync.exe.config
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\IntercommIoSync.exe
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\IntercommIoSync.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Analytics.NET.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Dapper.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Dapper.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Dapper.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\obj\x64\Debug\IntercommIoSync.exe
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\obj\x64\Debug\IntercommIoSync.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercommIoSync\obj\x64\Debug\IntercommIoSync.csprojResolveAssemblyReference.cache

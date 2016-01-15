@@ -1,0 +1,7 @@
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\obj\Debug\IntercomIoRest.csprojResolveAssemblyReference.cache
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\bin\Debug\IntercomIoRest.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\bin\Debug\IntercomIoRest.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\obj\Debug\IntercomIoRest.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\IntercomIoRest\obj\Debug\IntercomIoRest.pdb

@@ -1,0 +1,15 @@
+C:\Users\Geirr\Documents\Visual Studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\WebProofIdentitySync.exe.config
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\WebProofIdentitySync.exe
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\WebProofIdentitySync.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\Dapper.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\EntityFramework.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\Dapper.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\Dapper.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\EntityFramework.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\obj\Debug\WebProofIdentitySync.csprojResolveAssemblyReference.cache
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\obj\Debug\WebProofIdentitySync.exe
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\obj\Debug\WebProofIdentitySync.pdb
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\Dapper.FluentMap.dll
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Debug\Dapper.FluentMap.xml

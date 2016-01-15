@@ -1,0 +1,2 @@
+C:\Users\Geirr\documents\visual studio 2013\Projects\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Release\WebProofIdentitySync.exe.config
+D:\Sources\WebProof\WebProofServiceApps\WebProofIdentitySync\WebProofIdentitySync\bin\Release\WebProofIdentitySync.exe.config
